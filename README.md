@@ -4,7 +4,7 @@ Este repositorio contiene la resolución de una prueba práctica de Ingeniería 
 
 ## 🔗 Acceso al Notebook
 
-* **Google Colab:** [Abrir Notebook en Google Colab](PEGAR_AQUI_EL_ENLACE_DE_COLAB)
+* **Google Colab:** [Abrir Notebook en Google Colab](https://colab.research.google.com/github/Lucaszanazzo/Prueba_tecnica/blob/Luquitas_resolve/Prueba_T%C3%A9cnica_DE_BP.ipynb#scrollTo=TKYVXg-2aBRb)
 
 ---
 
